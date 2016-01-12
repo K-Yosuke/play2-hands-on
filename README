@@ -2,3 +2,8 @@ This is your new Play application
 =================================
 
 This file will be packaged with your application, when using `activator dist`.
+
+勉強用のリポジトリです。
+play2-hands-onで詰まった箇所でコミットしています。
+Json形式でデータが返せなくて困っているところ。
+
